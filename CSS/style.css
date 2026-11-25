@@ -257,7 +257,7 @@ section img {
   width: 50%;
   display: block;
   margin:auto;
-  height: 500px;
+  height: auto;
   }
 
   .stages {
