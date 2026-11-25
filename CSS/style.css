@@ -337,19 +337,18 @@ article.grid-preparation-goals li strong {
     color: #ffcb05;
     font-weight: bold;
   }
-
-
-  .missing.page {
+  
+  .missing-page {
     padding: 50px;
   }
 
-  .missing.page img {
-    width: 80%;
+  .missing-page img {
+    width: 50%;
     display: block;
     margin: auto;
   }
 
-  .missing.page ul {
+  .missing-page ul {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
