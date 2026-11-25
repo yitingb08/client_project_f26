@@ -340,16 +340,18 @@ article.grid-preparation-goals li strong {
 
 
   .missing.page {
-    padding: 40px;
+    padding: 50px;
   }
 
   .missing.page img {
-    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
   }
 
   .missing.page ul {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
   }
 }
